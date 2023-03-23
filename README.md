@@ -3,7 +3,7 @@ Memoria del programa:
 
 Cuando se ejecuta una aplicación binaria, ésta asigna memoria de una forma muy específica dentro de los binarios de memoria que utilizan los ordenadores modernos.
 
-La siguiente imagen ilustra como se asigna los espacios de memoria en windows, 
+La siguiente imagen ilustra como se asigna los espacios de memoria en windows:
 
 ![image](https://user-images.githubusercontent.com/122020487/210770532-5dd4aedd-df65-4026-9cc8-0ad1bffd637c.png)
 
